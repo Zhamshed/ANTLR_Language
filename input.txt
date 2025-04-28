@@ -1,0 +1,3 @@
+file a;
+fopen a "test.txt";
+fappend a, 1, "A", 2;

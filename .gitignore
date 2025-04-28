@@ -1,0 +1,19 @@
+# Ignore compiled classes
+bin/
+*.class
+
+# Ignore lib jars
+lib/
+
+# Ignore system files
+.DS_Store
+
+# Ignore generated files
+program.out
+VMinput.txt
+test.txt
+errors.txt
+
+# Ignore ANTLR generated intermediate files
+*.tokens
+*.interp
